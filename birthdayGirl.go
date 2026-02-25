@@ -10,3 +10,5 @@ func Brt(a int) {
 	fmt.Println("you just turned", a)
 	kourtney.Doyouremember(a)
 }
+
+//kjkjk
